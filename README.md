@@ -2,6 +2,22 @@
 
 This repository contains the training materials for the course "LLMs for science of science research" training, LMU, 2025.
 
+#### Schedule
+<font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
+10:00 AM - 11:00 AM: [Talk: Intro to LLMs]()<br>
+11:00 AM - 11:15 AM: Break<br>
+11:15 AM - 11:45 PM: [Talk: A gentle intro to Hugging Face and Python]()<br>
+11:45 AM - 12:00 PM: Setup Colab<br>
+12:00 PM - 12:30 PM: [Exercise: Running pipelines]()<br>
+12:30 PM - 01:00 PM: Discussion: Find applications in small groups<br>
+01:00 PM - 02:00 PM: Lunch<br>
+02:00 PM - 03:00 PM: [Talk: Intro to transformers & embeddings]()<br>
+03:00 PM - 03:30 PM: [Exercise: Clustering]()<br>
+03:30 PM - 03:45 PM: Break<br>
+03:45 PM - 04:30 PM: [Talk: Intro to text generation]()<br>
+04:30 PM - 05:00 PM: [Exercise: Labeling & retrieval]()<br>
+05:00 PM - 06:00 PM: Open discussion<br>
+
 ### Resources
 <a href="https://doi.org/10.3758/s13428-024-02455-8">Hussain, Binz, Mata, & Wulff (2024). A tutorial on open-source large language models for behavioral science. *Behavior Research Methods*, 1-24.
 </a>
