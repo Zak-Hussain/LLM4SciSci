@@ -8,7 +8,7 @@ This repository contains the training materials for the course "LLMs for science
 11:00 AM - 11:15 AM: Break<br>
 11:15 AM - 11:45 PM: [Talk: A gentle intro to Hugging Face and Python]()<br>
 11:45 AM - 12:00 PM: Setup Colab<br>
-12:00 PM - 12:30 PM: [Exercise: Running pipelines]()<br>
+12:00 PM - 12:30 PM: [Exercise: Running pipelines](https://github.com/Zak-Hussain/LLM4SciSci/blob/main/1_pipelines.ipynb)<br>
 12:30 PM - 01:00 PM: Discussion: Find applications in small groups<br>
 01:00 PM - 02:00 PM: Lunch<br>
 02:00 PM - 03:00 PM: [Talk: Intro to transformers & embeddings]()<br>
