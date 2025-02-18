@@ -12,10 +12,10 @@ This repository contains the training materials for the course "LLMs for science
 12:30 PM - 01:00 PM: Discussion: Find applications in small groups<br>
 01:00 PM - 02:00 PM: Lunch<br>
 02:00 PM - 03:00 PM: [Talk: Intro to transformers & embeddings]()<br>
-03:00 PM - 03:30 PM: [Exercise: Clustering]()<br>
+03:00 PM - 03:30 PM: [Exercise: Clustering](https://github.com/Zak-Hussain/LLM4SciSci/blob/main/2_clustering.ipynb)<br>
 03:30 PM - 03:45 PM: Break<br>
 03:45 PM - 04:30 PM: [Talk: Intro to text generation]()<br>
-04:30 PM - 05:00 PM: [Exercise: Labeling & retrieval]()<br>
+04:30 PM - 05:00 PM: [Exercise: Labeling & retrieval](https://github.com/Zak-Hussain/LLM4SciSci/blob/main/3_labeling_retrieval.ipynb)<br>
 05:00 PM - 06:00 PM: Open discussion<br>
 
 ### Resources
