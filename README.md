@@ -6,18 +6,18 @@ This repository contains the training materials for the course "LLMs for science
 
 #### Schedule
 <font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
-10:00 AM - 11:00 AM: [Talk: Intro to LLMs](intro.pdf)<br>
+10:00 AM - 11:00 AM: [Talk: Intro to LLMs](slides/intro.pdf)<br>
 11:00 AM - 11:15 AM: Break<br>
-11:15 AM - 11:45 PM: [Talk: A gentle intro to Hugging Face and Python]()<br>
+11:15 AM - 11:45 PM: [Talk: A gentle intro to Hugging Face and Python](slides/python_HF.pdf)<br>
 11:45 AM - 12:00 PM: Setup Colab<br>
-12:00 PM - 12:30 PM: [Exercise: Running pipelines](https://github.com/Zak-Hussain/LLM4SciSci/blob/main/1_pipelines.ipynb)<br>
+12:00 PM - 12:30 PM: [Exercise: Running pipelines](1_pipelines.ipynb)<br>
 12:30 PM - 01:00 PM: Discussion: Find applications in small groups<br>
 01:00 PM - 02:00 PM: Lunch<br>
-02:00 PM - 03:00 PM: [Talk: Intro to transformers & embeddings](embeddings.pdf)<br>
-03:00 PM - 03:30 PM: [Exercise: Clustering](https://github.com/Zak-Hussain/LLM4SciSci/blob/main/2_clustering.ipynb)<br>
+02:00 PM - 03:00 PM: [Talk: Intro to transformers & embeddings](into/embeddings.pdf)<br>
+03:00 PM - 03:30 PM: [Exercise: Clustering](2_clustering.ipynb)<br>
 03:30 PM - 03:45 PM: Break<br>
-03:45 PM - 04:30 PM: [Talk: Intro to text generation](textgen.pdf)<br>
-04:30 PM - 05:00 PM: [Exercise: Labeling & retrieval](https://github.com/Zak-Hussain/LLM4SciSci/blob/main/3_labeling_retrieval.ipynb)<br>
+03:45 PM - 04:30 PM: [Talk: Intro to text generation](slides/textgen.pdf)<br>
+04:30 PM - 05:00 PM: [Exercise: Labeling & retrieval](3_labeling_retrieval.ipynb)<br>
 05:00 PM - 06:00 PM: Open discussion<br>
 
 ### Resources
