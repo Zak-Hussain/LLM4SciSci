@@ -33,7 +33,17 @@ This repository contains the training materials for the course "LLMs for science
   publisher={Springer}
 }
 ```
-
+<a href="https://osf.io/preprints/osf/ybvzs_v1">Wulff, Hussain, & Mata (2024). The behavioral and social sciences need open LLMs
+. *OSF preprint*.
+</a>
+```
+@article{wulff2024openllms,
+  title={The behavioral and social sciences need open LLMs},
+  author={Wulff, Dirk U and Hussain, Zak and Mata, Rui},
+  journal={OSF},
+  year={2024}
+}
+```
 [Hugging face documentation](https://huggingface.co/docs)<br>
 [Hugging face book](https://transformersbook.com/)<br>
 [But what is a GPT (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)<br>
