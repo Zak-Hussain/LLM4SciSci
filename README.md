@@ -15,7 +15,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 12:00 PM - 12:30 PM: [Exercise: Running pipelines](1_pipelines.ipynb)<br>
 12:30 PM - 01:00 PM: Discussion: Find applications in small groups<br>
 01:00 PM - 02:00 PM: Lunch<br>
-02:00 PM - 03:00 PM: [Talk: Intro to transformers & embeddings](into/embeddings.pdf)<br>
+02:00 PM - 03:00 PM: [Talk: Intro to transformers & embeddings](slides/embeddings.pdf)<br>
 03:00 PM - 03:30 PM: [Exercise: Clustering](2_clustering.ipynb)<br>
 03:30 PM - 03:45 PM: Break<br>
 03:45 PM - 04:30 PM: [Talk: Intro to text generation](slides/textgen.pdf)<br>
