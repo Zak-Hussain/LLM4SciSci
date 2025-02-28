@@ -2,7 +2,7 @@
 
 ![cover image](cover_scisci.png)
 
-This repository contains the training materials for the course "LLMs for science of science research" at meeting of [The European Network for the Science of Science](https://euroscisci.net/) at LMU, 2025.
+This repository contains the training materials for the course "LLMs for science of science research" at the meeting of [The European Network for the Science of Science](https://euroscisci.net/) at LMU, 2025.
 
 By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussain](https://zak-hussain.github.io/)
 
